@@ -1,6 +1,7 @@
 body {
   background-color: #D9D7D7;
-  background-image: url(Fruits\ et\ legumes.png)
+  background-image: url(Fruits\ et\ legumes.png);
+  font-family: 'Dosis', sans-serif;
 }
 
 .title-container {
@@ -8,7 +9,13 @@ body {
 }
 
 .title-container > h1 {
-  font-weight: bolder
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.title-container > h2 {
+  font-weight: 5
+  00;
 }
 .main-container {
   padding: 30px;
