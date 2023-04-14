@@ -1,9 +1,21 @@
 body {
   background-color: #D9D7D7;
+  background-image: url(Fruits\ et\ legumes.png)
 }
 
+.title-container {
+  text-align: center;
+}
+
+.title-container > h1 {
+  font-weight: bolder
+}
 .main-container {
   padding: 30px;
   background-color: white;
   border-radius: 45px;
+}
+
+.main-container > h2 {
+  margin-bottom: 0px;
 }
